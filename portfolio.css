@@ -1,0 +1,16 @@
+.columns{
+  width: 33.3%;
+  float: left;
+}
+
+.columns2{
+  width: 50%;
+  float: left;
+}
+
+body{
+  margin-left: 75px;
+  margin-right: 75px;
+  font-family: 'Gaegu', cursive;
+  background-color: #E6E25B;
+}
